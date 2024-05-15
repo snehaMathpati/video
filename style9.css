@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'montserrat' sans-serif;
+}
+body{
+    margin: 0;
+    font-size: 17px;
+    background-size: cover;
+}
+
+.play-btn{
+    position: absolute;
+    top: 35vh;
+    right: 68vw;
+}
+.fa{
+    position: absolute;
+   
+    color: rgba(255,255,255,0.302);
+    font-size: 88px;   
+}
+video{
+    background-size: cover;
+    height: 750px;
+  
+}
+
+.content h1{
+   margin-left: 440px;
+   position: relative;
+   /* top: 60px; */
+   bottom: 600px;
+   color: white;
+   /* margin-top: 00.5px; */
+   font-size: 70px;
+
+}
